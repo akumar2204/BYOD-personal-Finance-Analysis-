@@ -176,3 +176,5 @@ If you'd like, I can now:
 🎤 Create an interview explanation script
 📝 Write a LinkedIn post for this project
 🏆 Create resume-ready bullet points
+
+<img width="1338" height="780" alt="image" src="https://github.com/user-attachments/assets/e35b6494-0422-4a38-9ed8-9a164941869d" />
